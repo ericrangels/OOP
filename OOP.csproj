@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="OOPython\**" />
+    <EmbeddedResource Remove="OOPython\**" />
+    <None Remove="OOPython\**" />
+  </ItemGroup>
+
 </Project>
