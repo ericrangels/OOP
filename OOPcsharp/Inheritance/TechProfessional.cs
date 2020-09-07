@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OOP.Inheritance
+namespace OOPcsharp.Inheritance
 {
     /*
      * Example of Abstract Class with abstract and virtual methods

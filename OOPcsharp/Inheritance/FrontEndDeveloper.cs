@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OOP.Inheritance
+namespace OOPcsharp.Inheritance
 {
     /*
      * Example of a Class that inherits from abstract class

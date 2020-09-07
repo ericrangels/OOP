@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OOP.Polymorphism
+namespace OOPcsharp.Polymorphism
 {
     public abstract class Developer
     {

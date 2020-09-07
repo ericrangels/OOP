@@ -4,8 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ce2ec218-ceaf-4e9d-913b-3d49f4faed64</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>
-    </StartupFile>
+    <StartupFile>OOPython.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,10 +24,17 @@
     <Compile Include="Inheritance\BackEndDeveloper.py" />
     <Compile Include="Inheritance\FrontEndDeveloper.py" />
     <Compile Include="Inheritance\TechProfessional.py" />
+    <Compile Include="Inheritance\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="OOPython.py" />
+    <Compile Include="Polymorphism\WebDeveloper.py" />
+    <Compile Include="Polymorphism\AppDeveloper.py" />
+    <Compile Include="Polymorphism\__init__.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Inheritance\" />
+    <Folder Include="Polymorphism\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

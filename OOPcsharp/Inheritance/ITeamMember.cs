@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OOP.Inheritance
+namespace OOPcsharp.Inheritance
 {
-    public interface TeamMember
+    public interface ITeamMember
     {
         string TeamName { get; }
 

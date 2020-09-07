@@ -2,14 +2,14 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OOP.Inheritance
+namespace OOPcsharp.Inheritance
 {
     /*
      * Example of a Class that inherits from abstract class and interface
      * 
      * */
 
-    public class BackEndDeveloper : TechProfessional, TeamMember
+    public class BackEndDeveloper : TechProfessional, ITeamMember
     {
         private int _yearsExperience;
 
