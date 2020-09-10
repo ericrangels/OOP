@@ -5,7 +5,12 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "OOPython", "OOPython\OOPython.pyproj", "{CE2EC218-CEAF-4E9D-913B-3D49F4FAED64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPcsharp", "OOPcsharp\OOPcsharp.csproj", "{DF4ECF7B-B95D-40EC-B38A-8D492299B966}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPcsharp", "OOPcsharp\OOPcsharp.csproj", "{DF4ECF7B-B95D-40EC-B38A-8D492299B966}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{85C20F87-95A7-4C07-B316-2E37E6A4541C}"
+	ProjectSection(SolutionItems) = preProject
+		\\Mac\Home\Downloads\OOP.png = \\Mac\Home\Downloads\OOP.png
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
