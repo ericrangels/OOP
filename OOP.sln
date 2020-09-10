@@ -7,9 +7,9 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "OOPython", "OOPython\OOPyth
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPcsharp", "OOPcsharp\OOPcsharp.csproj", "{DF4ECF7B-B95D-40EC-B38A-8D492299B966}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{85C20F87-95A7-4C07-B316-2E37E6A4541C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{66FBED76-64F9-46FE-892C-72750BCF6B8B}"
 	ProjectSection(SolutionItems) = preProject
-		\\Mac\Home\Downloads\OOP.png = \\Mac\Home\Downloads\OOP.png
+		img\OOP.png = img\OOP.png
 	EndProjectSection
 EndProject
 Global
