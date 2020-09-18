@@ -8,3 +8,7 @@ OOP allows decomposition of a problem into a number of entities called objects a
 - The software is divided into a number of small units called objects. The data and functions are built around these objects.
 - The data of the objects can be accessed only by the functions associated with that object.
 - The functions of one object can access the functions of another object.
+
+
+## 📌 Example of Encapsulation demonstrated in this project
+![Encapsulation](./img/Github - OOP - Encapsulation.png)
