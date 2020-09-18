@@ -10,5 +10,7 @@ OOP allows decomposition of a problem into a number of entities called objects a
 - The functions of one object can access the functions of another object.
 
 
+
+
 ## 📌 Example of Encapsulation demonstrated in this project
 ![Encapsulation](./img/Encapsulation.png)
