@@ -15,7 +15,16 @@ OOP allows decomposition of a problem into a number of entities called objects a
 
 ## 📌 Example of Encapsulation demonstrated in this project
 ![Encapsulation](./img/Encapsulation.png)
--
--
->About access modifiers
-![](./img/AccessModifiers.svg)
+
+
+***
+
+<p align="center">
+		<sup>About access modifiers</sup>
+		<br>
+		<a href="">
+			<img src="./img/AccessModifiers.svg">
+		</a>
+</p>
+
+***
